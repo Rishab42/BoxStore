@@ -30,7 +30,7 @@ function Home(){
         <div className="home-container">
             <div className="navbar">
                 <div className="logo">
-                    <span>LoGo</span>
+                    <span>LoGoo</span>
                 </div>
                 <div className="tags">
                     <span onClick={about}>About Us</span>
