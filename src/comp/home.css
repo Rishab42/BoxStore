@@ -1,0 +1,82 @@
+.navbar {
+    background-color: rgb(34, 40, 49);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    display: flex;
+    height: 5rem;
+    align-items: center;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.box-text {
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    font-size: 90px;
+    font-weight: bold;
+}
+
+.discription-text {
+    position: absolute;
+    top: 45%;
+    left: 34%;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.create-btn {
+    position: absolute;
+    bottom: 40%;
+    left: 40%;
+    font-size: 20px;
+    height: 3rem;
+    width: 20rem;
+    font-weight: 600;
+}
+
+.create-btn button {
+    height: 3rem;
+    width: 20rem;
+    border-radius: 5px;
+    background-color: #5AAFB5;
+    font-size: 20px;
+    font-weight: 800;
+    border: none;
+    cursor: pointer;
+}
+
+.bottom-text {
+    position: absolute;
+    bottom: 10%;
+    left: 30%;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.logo {
+    width: 50%;
+}
+
+.tags {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box-image {
+    position: relative;
+}
+
+.tags span {
+    cursor: pointer;
+}
+
+.box-image img {
+    opacity: 0.5;
+    width: 100vw;
+}
+
+.green-text {
+    color: #5AAFB5;
+}
